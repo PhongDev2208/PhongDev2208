@@ -88,7 +88,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman" title="Postman" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Antdesign-282C34?logo=antdesign&logoColor=#0170FE" alt="Antdesign logo" title="Ant Design" height="25" /></span>
+<span><img src="https://img.shields.io/badge/AntDesign-282C34?logo=antdesign&logoColor=#0170FE" alt="Antdesign logo" title="Ant Design" height="25" /></span>
 &nbsp;
 
 <br>
